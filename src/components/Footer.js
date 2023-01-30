@@ -35,7 +35,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/jeffry-delgado-sánchez-1985b8121/"
+                href="https://www.linkedin.com/in/jeffry-delgado-sánchez"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
