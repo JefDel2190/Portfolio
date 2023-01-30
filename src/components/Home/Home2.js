@@ -65,7 +65,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/jeffry-delgado-sánchez-1985b8121/"
+                  href="https://www.linkedin.com/in/jeffry-delgado-sánchez"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
